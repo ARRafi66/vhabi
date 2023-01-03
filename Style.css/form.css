@@ -1,0 +1,26 @@
+
+header {
+    background-color: rgb(226, 43, 180);
+    font-size: large;
+    font-style: italic;
+    color: gold;
+}
+div{
+    background-color: aquamarine;
+}
+fieldset{
+    color: rgb(61, 42, 165);
+    font-weight: 800;
+}
+p{
+    font-size: xx-large;
+    font-style: normal;
+    background-color: rgb(255, 153, 0);
+    padding-bottom: 20px;
+    color: rgb(255, 0, 234);
+    text-align: center;
+    font-weight: bold;  
+}
+h3{
+    color: rgb(76, 0, 255);
+}
